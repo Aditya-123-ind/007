@@ -1,3 +1,7 @@
 Welcome to the my repository
+<<<<<<< HEAD
 second line 
 
+=======
+Hii Aduu
+>>>>>>> 5af9e76 (sec line)
